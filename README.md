@@ -1,9 +1,8 @@
 # tipe_marches_aleatoires
 # Retours à l'origine d'une marche aléatoire sur $\mathbb{Z}^d$
 
-TIPE 2026 · CPGE MP\* · Lycée Robespierre (Arras)
-
-📄 [Présentation du TIPE (PDF)](presentation-tipe.pdf)
+TIPE réalisé durant mon année de 5/2. 
+[Présentation du TIPE (PDF)](presentation-tipe.pdf)
 
 ## Problématique
 
