@@ -1,8 +1,8 @@
 # tipe_marches_aleatoires
 # Retours à l'origine d'une marche aléatoire sur $\mathbb{Z}^d$
 
-TIPE réalisé durant mon année de 5/2. 
-[Présentation du TIPE (PDF)](presentation-tipe.pdf)
+TIPE réalisé durant mon année de 5/2. Les résultats sont prouvés dans un autre document. Il n'est pas fini mais tout de même disponible. 
+
 
 ## Problématique
 
