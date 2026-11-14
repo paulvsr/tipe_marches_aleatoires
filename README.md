@@ -70,6 +70,5 @@ python tipe_marche_aleatoire.py
 └── tipe_marche_aleatoire.py
 ```
 
-## Auteur
 
-Paul Vasseur, Magistère de Physique Fondamentale, Université Paris-Saclay.
+
